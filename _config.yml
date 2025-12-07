@@ -1,0 +1,6 @@
+title: "The Notorious RBF Blog"
+author: "NotoriousRBF"
+description: "Kernel tricks, oncology, and biostatistics"
+theme: minimal
+plugins:
+  - jekyll-feed
